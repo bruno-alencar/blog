@@ -34,22 +34,29 @@ Podemos adicionar nossos arquivos a serem comitados separadamente ou não
 ## Branches
 
 Para exemplificar o que seriam branches, imagine um tronco de uma árvore, a parte principal seria a produção (mais conhecida como 'master'). Se tivesse um site no ar, seria nesse lugar que guardaria o código do seu site que seria de produção.
+
 Mas imagine que você precisa colocar um novo layout no seu site, mas não quer mostrar ainda porque ainda está construindo. Seriam os galhos, ramos desta árvore.
+
 Toda nova modificação será criado uma branch, correspondente aquela feature (funcionalidade)
 
 ## Visibilidade no mercado
 Durante meu tempo de faculdade não percebi o quanto um github bem construído é importante. E o pior ainda, não percebi que o melhor lugar para se procurar código, é lá.
+
 Visto algum tempo, pessoas que codam a pouco tempo ou até a alguns anos, não entenderam que esse montante de código livre ajuda muito a aprender coisas novas. Pensando da forma:
 "Se eu estou fazendo isso, alguém no mundo já fez algo parecido"
 Mas não se engane, se estiver procurando algo muito novo, talvez não ache exatamente o que precisa, mas sim, algo que te dê uma "luz".
+
 Com isso, um bom Git Hub, com vários códigos seus, presença em projetos opensources, podem mostrar muito sobre o que você sabe e o que gosta.
 
 ## Comandos básicos (essenciais)
 Selecionei os comandos básicos do Git, para oferecer rapidamente a experiência de uso do Git. 
+
 O primeiro comando para iniciar um projeto no Git, é o Git init.
 Git init vai colocar todas para chamar aquele seu projeto de "projeto Git", e sem ele, nenhum dos outros comandos irá funcionar. Ele é feito uma única vez no projeto e não será mais necessário fazê-lo.
+
 Git add (nome do arquivo) adiciona o arquivo especifico para commitar. Desta forma, você consegue separar arquivos de modificação para realizar diferentes registros. Caso queira adicionar todos, basta colocar um '*' no final. Git add *
 Git pull pega todos os arquivos modificados que estão no repositório (já foram publicados) para a sua máquina.
+
 Git push
 Final o comando, o comando que pega todos os seus commits e sobem para nuvem, seu repositório. Nunca se esqueça deste comando, ele que deixará outras pessoas verem seu código.
 Git remote add origin http..
