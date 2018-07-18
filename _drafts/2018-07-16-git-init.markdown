@@ -5,22 +5,45 @@ date:   2018-07-16 22:20:58 +0000
 categories: getting started
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Por que Git?
+Talvez seja uma pergunta fácil e óbvia para muitas pessoas, mas para outras, vejo que fica muito difícil de entender o motivo de se usar Git. Está começando aqui, uma série de posts sobre o famoso Git.
+> Git é uma ferramenta para versionamento de código
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Traduzindo: 
+Todas as suas mudanças no código poderão registradas
 
-Jekyll also offers powerful support for code snippets:
+## Branches
+Para exemplificar o que seriam branches, imagine um tronco de uma árvore, a parte principal seria a produção (mais conhecida como 'master'). Se tivesse um site no ar, seria nesse lugar que guardaria o código do seu site que seria de produção .
+Mas imagine que você precisa colocar um novo layout no seu site, mas não quer mostrar ainda porque ainda está construindo. Seriam os galhos, ramos desta árvore.
+Toda nova modificação será criado uma branch, correspondente aquela feature (funcionalidade)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Visibilidade no mercado
+Durante meu tempo de faculdade não percebi o quanto um github bem construído é importante. E o pior ainda, não percebi que o melhor lugar para se procurar código, é lá.
+Visto algum tempo, pessoas que codam a pouco tempo ou até a alguns anos, não entenderam que esse montante de código livre ajuda muito a aprender coisas novas. Pensando da forma:
+"Se eu estou fazendo isso, alguém no mundo já fez algo parecido"
+Mas não se engane, se estiver procurando algo muito novo, talvez não ache exatamente o que precisa, mas sim, algo que te dê uma "luz".
+Com isso, um bom Git Hub, com vários códigos seus, presença em projetos opensources, podem mostrar muito sobre o que você sabe e o que gosta.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Comandos básicos (essenciais)
+Selecionei os comandos básicos do Git, para oferecer rapidamente a experiência de uso do Git. 
+O primeiro comando para iniciar um projeto no Git, é o Git init.
+Git init vai colocar todas para chamar aquele seu projeto de "projeto Git", e sem ele, nenhum dos outros comandos irá funcionar. Ele é feito uma única vez no projeto e não será mais necessário fazê-lo.
+Git add (nome do arquivo) adiciona o arquivo especifico para commitar. Desta forma, você consegue separar arquivos de modificação para realizar diferentes registros. Caso queira adicionar todos, basta colocar um '*' no final. Git add *
+Git pull pega todos os arquivos modificados que estão no repositório (já foram publicados) para a sua máquina.
+Git push
+Final o comando, o comando que pega todos os seus commits e sobem para nuvem, seu repositório. Nunca se esqueça deste comando, ele que deixará outras pessoas verem seu código.
+Git remote add origin http..
+Precisamos sempre adicionar o que chamamos de origem. Nosso repositório é uma origem, mas como sabemos que o código na nossa máquina é de lá?
+Com este comando, linkamos o repositório da máquina, com o da nuvem, podemos fazer o push tranquilamente.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Comandos que começam a dar problemas
+
+Como nada é perfeito, seu projeto também pode não ser kkkk. Quando todos do projeto trabalham em suas branches, com os comando acima tudo funcionará perfeitamente. Mas tem o momento em que tudo precisa ser "juntado"
+Git Merge
+Agora começa a brincadeira, se alguém mexeu no mesmo arquivo e no mesmo pedaço de código que o seu, ocorrerá os "CONFLICTS". O git consegue resolver boa parte deles, mas alguns, será necessário definir o que fica e o que sai do projeto.
+
+Git pull de outra branch
+
+
+Resolvendo conflitos (formas) - Deu merda
+Se tornando master com gitflow (padronizando seu projeto)
