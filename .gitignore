@@ -66,3 +66,17 @@ yarn-error.log
 # editors
 .idea/
 .vscode
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+*-lock.json
