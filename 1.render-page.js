@@ -265,7 +265,7 @@ exports.modules = {
 	    },
 	    svg: {
 	      width: "40px",
-	      height: "35px",
+	      height: "30px",
 	      fill: theme.info.colors.socialIcons,
 	      transition: "all .5s"
 	    }
@@ -516,9 +516,9 @@ exports.modules = {
 	
 	var _ExpandMore2 = _interopRequireDefault(_ExpandMore);
 	
-	var _photo = __webpack_require__(454);
+	var _avatar2 = __webpack_require__(454);
 	
-	var _photo2 = _interopRequireDefault(_photo);
+	var _avatar3 = _interopRequireDefault(_avatar2);
 	
 	var _config = __webpack_require__(453);
 	
@@ -558,8 +558,8 @@ exports.modules = {
 	      }
 	    }, _avatarLink),
 	    avatar: (_avatar = {
-	      width: "50px",
-	      height: "50px",
+	      width: "45px",
+	      height: "45px",
 	      borderRadius: "65% 75%",
 	      border: "1px solid #ddd",
 	      transition: "all .3s",
@@ -569,12 +569,12 @@ exports.modules = {
 	      "& img": {
 	        maxWidth: "100%"
 	      }
-	    }, _avatar["@media (min-width: " + theme.mediaQueryTresholds.M + "px)"] = {
+	    }, _avatar["@media (min-width: " + (theme.mediaQueryTresholds.M - 5) + "px)"] = {
 	      width: "44px",
 	      height: "44px"
-	    }, _avatar["@media (min-width: " + theme.mediaQueryTresholds.L + "px)"] = {
-	      width: "70px",
-	      height: "70px"
+	    }, _avatar["@media (min-width: " + (theme.mediaQueryTresholds.L - 5) + "px)"] = {
+	      width: "63px",
+	      height: "63px"
 	    }, _avatar["@media (hover: hover)"] = {
 	      "&:hover": {
 	        borderRadius: "75% 65%"
@@ -635,7 +635,7 @@ exports.modules = {
 	      _react2.default.createElement(
 	        "div",
 	        { className: classes.avatar },
-	        _react2.default.createElement("img", { src: _photo2.default, alt: "" })
+	        _react2.default.createElement("img", { src: _avatar3.default, alt: "" })
 	      )
 	    ),
 	    _react2.default.createElement(
