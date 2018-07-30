@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PersonalBlog - a blog starter for GatsbyJS]]></title><description><![CDATA[PersonalBlog is a GatsbyJS starter.]]></description><link>https://bruno-alencar.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Jul 2018 00:15:08 GMT</lastBuildDate><item><title><![CDATA[How to customize the PersonalBlog starter's appearance]]></title><description><![CDATA[The  starter  uses a theme object so base customization is really easy. Find the   file. … Front-end web development To read the whole…]]></description><link>https://bruno-alencar.github.io/blog/customize-personal-blog-starter/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/customize-personal-blog-starter/</guid><content:encoded>&lt;p&gt;The &lt;a href=&quot;/gatsby-starter-personal-blog/&quot;&gt;starter&lt;/a&gt; uses a theme object so base customization is really easy.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PersonalBlog - a blog starter for GatsbyJS]]></title><description><![CDATA[PersonalBlog is a GatsbyJS starter.]]></description><link>https://bruno-alencar.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Jul 2018 00:32:58 GMT</lastBuildDate><item><title><![CDATA[How to customize the PersonalBlog starter's appearance]]></title><description><![CDATA[The  starter  uses a theme object so base customization is really easy. Find the   file. … Front-end web development To read the whole…]]></description><link>https://bruno-alencar.github.io/customize-personal-blog-starter/</link><guid isPermaLink="false">https://bruno-alencar.github.io/customize-personal-blog-starter/</guid><content:encoded>&lt;p&gt;The &lt;a href=&quot;/blog/gatsby-starter-personal-blog/&quot;&gt;starter&lt;/a&gt; uses a theme object so base customization is really easy.&lt;/p&gt;
 &lt;p&gt;Find the &lt;code class=&quot;language-text&quot;&gt;theme.js&lt;/code&gt; file.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;root
@@ -16,7 +16,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
+    href=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -35,12 +35,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
+        src=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -57,7 +57,7 @@
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Setup Algolia account for your GatsbyJS blog]]></title><description><![CDATA[As I wrote in the  Starter Instalation  post the starter needs access data to your  Algolia  account. If you do not have an Algolia account…]]></description><link>https://bruno-alencar.github.io/blog/setup-algolia-account/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/setup-algolia-account/</guid><content:encoded>&lt;p&gt;As I wrote in the &lt;a href=&quot;/install-personal-blog-starter/&quot;&gt;Starter Instalation&lt;/a&gt; post the starter needs access data to your &lt;a href=&quot;https://www.algolia.com/&quot;&gt;Algolia&lt;/a&gt; account.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Setup Algolia account for your GatsbyJS blog]]></title><description><![CDATA[As I wrote in the  Starter Instalation  post the starter needs access data to your  Algolia  account. If you do not have an Algolia account…]]></description><link>https://bruno-alencar.github.io/setup-algolia-account/</link><guid isPermaLink="false">https://bruno-alencar.github.io/setup-algolia-account/</guid><content:encoded>&lt;p&gt;As I wrote in the &lt;a href=&quot;/blog/install-personal-blog-starter/&quot;&gt;Starter Instalation&lt;/a&gt; post the starter needs access data to your &lt;a href=&quot;https://www.algolia.com/&quot;&gt;Algolia&lt;/a&gt; account.&lt;/p&gt;
 &lt;p&gt;If you do not have an Algolia account yet you have to &lt;a href=&quot;https://www.algolia.com/users/sign_up&quot;&gt;sign up&lt;/a&gt; now.&lt;/p&gt;
 &lt;p&gt;If you already have an account go and open the &lt;a href=&quot;https://www.algolia.com/manage/applications&quot;&gt;Apps&lt;/a&gt; page and click the &lt;strong&gt;NEW APPLICATION&lt;/strong&gt; button.&lt;/p&gt;
 &lt;p&gt;…&lt;/p&gt;
@@ -70,7 +70,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -89,12 +89,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -105,7 +105,7 @@
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to install, setup and add new content to the personalBlog starter]]></title><description><![CDATA[You install the starter like any other  GatsbyJS starter . … Front-end web development To read the whole instruction article -  How to…]]></description><link>https://bruno-alencar.github.io/blog/install-personal-blog-starter/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/install-personal-blog-starter/</guid><content:encoded>&lt;p&gt;You install the starter like any other &lt;a href=&quot;https://www.gatsbyjs.org/docs/gatsby-starters/&quot;&gt;GatsbyJS starter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to install, setup and add new content to the personalBlog starter]]></title><description><![CDATA[You install the starter like any other  GatsbyJS starter . … Front-end web development To read the whole instruction article -  How to…]]></description><link>https://bruno-alencar.github.io/install-personal-blog-starter/</link><guid isPermaLink="false">https://bruno-alencar.github.io/install-personal-blog-starter/</guid><content:encoded>&lt;p&gt;You install the starter like any other &lt;a href=&quot;https://www.gatsbyjs.org/docs/gatsby-starters/&quot;&gt;GatsbyJS starter&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-personal-blog.git&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
@@ -117,7 +117,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
+    href=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -136,12 +136,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
+        src=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -158,11 +158,11 @@
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/good-friends-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/good-friends-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/good-friends-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/good-friends-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -181,12 +181,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -202,10 +202,10 @@
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/there-are-only-two-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/there-are-only-two-3/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/there-are-only-two-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/there-are-only-two-3/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -224,12 +224,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -237,7 +237,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/blog/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
@@ -245,11 +245,11 @@
 &lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/imperfection-is-beauty-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/imperfection-is-beauty-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/imperfection-is-beauty-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/imperfection-is-beauty-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
+    href=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -268,12 +268,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
+        src=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -289,10 +289,10 @@
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/blog/i-am-so-clever-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-am-so-clever-3/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/i-am-so-clever-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-am-so-clever-3/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
+    href=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -311,12 +311,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
+        src=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -331,7 +331,7 @@
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/blog/people-will-forget-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/people-will-forget-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/people-will-forget-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/people-will-forget-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
 bad Commas, wild Question Marks and devious Semikoli, but the Little
@@ -341,7 +341,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -360,12 +360,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -376,13 +376,13 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/blog/you-only-live-once-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/you-only-live-once-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/you-only-live-once-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/you-only-live-once-3/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -401,12 +401,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -424,14 +424,14 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/blog/be-who-you-are-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/be-who-you-are-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/be-who-you-are-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/be-who-you-are-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
+    href=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -450,12 +450,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
+        src=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -466,7 +466,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/two-things-are-infinite-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/two-things-are-infinite-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/two-things-are-infinite-3/</link><guid isPermaLink="false">https://bruno-alencar.github.io/two-things-are-infinite-3/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -478,7 +478,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -497,12 +497,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -510,11 +510,11 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/like-nonsense-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/like-nonsense-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/like-nonsense-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/like-nonsense-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
+    href=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -533,12 +533,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
+        src=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -554,7 +554,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
+    href=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -573,10 +573,10 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;test&quot;
         title=&quot;&quot;
-        src=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
-        srcset=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-6bb65.png 200w,
-/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a3182.png 400w,
-/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png 577w&quot;
+        src=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
+        srcset=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-6bb65.png 200w,
+/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a3182.png 400w,
+/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png 577w&quot;
         sizes=&quot;(max-width: 577px) 100vw, 577px&quot;
       /&gt;
     &lt;/span&gt;
@@ -584,13 +584,13 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/i-may-not-have-gone-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-may-not-have-gone-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/i-may-not-have-gone-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-may-not-have-gone-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -609,12 +609,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -625,11 +625,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://bruno-alencar.github.io/blog/i-have-not-failed-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-have-not-failed-2/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://bruno-alencar.github.io/i-have-not-failed-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-have-not-failed-2/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
+    href=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -648,12 +648,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
+        src=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -670,11 +670,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/good-friends-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/good-friends-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/good-friends-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/good-friends-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -693,12 +693,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -714,10 +714,10 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/there-are-only-two-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/there-are-only-two-2/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/there-are-only-two-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/there-are-only-two-2/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -736,12 +736,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -749,7 +749,7 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/blog/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
@@ -757,11 +757,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/imperfection-is-beauty-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/imperfection-is-beauty-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/imperfection-is-beauty-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/imperfection-is-beauty-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
+    href=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -780,12 +780,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
+        src=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -801,10 +801,10 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/blog/i-am-so-clever-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-am-so-clever-2/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/i-am-so-clever-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-am-so-clever-2/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
+    href=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -823,12 +823,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
+        src=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -843,7 +843,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/blog/people-will-forget-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/people-will-forget-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/people-will-forget-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/people-will-forget-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
 bad Commas, wild Question Marks and devious Semikoli, but the Little
@@ -853,7 +853,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -872,12 +872,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -888,13 +888,13 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/blog/you-only-live-once-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/you-only-live-once-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/you-only-live-once-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/you-only-live-once-2/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -913,12 +913,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -936,14 +936,14 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/blog/be-who-you-are-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/be-who-you-are-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/be-who-you-are-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/be-who-you-are-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
+    href=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -962,12 +962,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
+        src=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -978,7 +978,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/two-things-are-infinite-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/two-things-are-infinite-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/two-things-are-infinite-2/</link><guid isPermaLink="false">https://bruno-alencar.github.io/two-things-are-infinite-2/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -990,7 +990,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1009,12 +1009,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1022,11 +1022,11 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/like-nonsense/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/like-nonsense/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I like nonsense, it wakes up the brain cells]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/like-nonsense/</link><guid isPermaLink="false">https://bruno-alencar.github.io/like-nonsense/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
+    href=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1045,12 +1045,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
-/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
+        src=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-dce19.jpg 200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-c1413.jpg 400w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-78f2b.jpg 800w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-ab4c4.jpg 1200w,
+/blog/static/photo-1465070845512-2b2dbdc6df66-c05f925825606e19a957283ac76dc0db-314f0.jpg 1464w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1066,7 +1066,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
+    href=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1085,10 +1085,10 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;test&quot;
         title=&quot;&quot;
-        src=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
-        srcset=&quot;/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-6bb65.png 200w,
-/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a3182.png 400w,
-/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png 577w&quot;
+        src=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png&quot;
+        srcset=&quot;/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-6bb65.png 200w,
+/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a3182.png 400w,
+/blog/static/33893097-e5a70c34-df5a-11e7-8f5e-40e057626770-8706faed3cd9409ea0c8d52a033023d0-a00a0.png 577w&quot;
         sizes=&quot;(max-width: 577px) 100vw, 577px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1096,13 +1096,13 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/i-may-not-have-gone/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-may-not-have-gone/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I may not have gone where I intended to go]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/i-may-not-have-gone/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-may-not-have-gone/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1121,12 +1121,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
-/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-dce19.jpg 200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-c1413.jpg 400w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-78f2b.jpg 800w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-ab4c4.jpg 1200w,
+/blog/static/photo-1507915600431-5292809c5ab7-40d4f4de1973c24726e4ef65ef5fd03e-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1137,11 +1137,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://bruno-alencar.github.io/blog/i-have-not-failed/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-have-not-failed/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have not failed. I've just found 10,000 ways that won't work]]></title><description><![CDATA[Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum…]]></description><link>https://bruno-alencar.github.io/i-have-not-failed/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-have-not-failed/</guid><content:encoded>&lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
+    href=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1160,12 +1160,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
-/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
+        src=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-dce19.jpg 200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-c1413.jpg 400w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-78f2b.jpg 800w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-ab4c4.jpg 1200w,
+/blog/static/photo-1463852247062-1bbca38f7805-a3b23c58902850ed9b4fa458aa658292-699d0.jpg 1506w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1182,11 +1182,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/good-friends/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/good-friends/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/good-friends/</link><guid isPermaLink="false">https://bruno-alencar.github.io/good-friends/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1205,12 +1205,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
-/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
+/blog/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1226,10 +1226,10 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/there-are-only-two/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/there-are-only-two/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/there-are-only-two/</link><guid isPermaLink="false">https://bruno-alencar.github.io/there-are-only-two/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1248,12 +1248,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
-/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-dce19.jpg 200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-c1413.jpg 400w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-78f2b.jpg 800w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-ab4c4.jpg 1200w,
+/blog/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1261,7 +1261,7 @@ into the belt and made herself on the way.&lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur &lt;a href=&quot;/blog/i-am-so-clever/&quot;&gt;adipiscing&lt;/a&gt; elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
@@ -1269,11 +1269,11 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/imperfection-is-beauty/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/imperfection-is-beauty/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/imperfection-is-beauty/</link><guid isPermaLink="false">https://bruno-alencar.github.io/imperfection-is-beauty/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
+    href=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1292,12 +1292,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
-/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
+        src=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-dce19.jpg 200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-c1413.jpg 400w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-78f2b.jpg 800w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-ab4c4.jpg 1200w,
+/blog/static/photo-1469461084727-4bfb496cf55a-b0702fab04e89587229b7c483c6bc8b1-b366d.jpg 1510w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1313,10 +1313,10 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
 &lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/blog/i-am-so-clever/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/i-am-so-clever/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I am so clever that sometimes I don't understand a single word of what I am saying]]></title><description><![CDATA[The Big Oxmox  advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the…]]></description><link>https://bruno-alencar.github.io/i-am-so-clever/</link><guid isPermaLink="false">https://bruno-alencar.github.io/i-am-so-clever/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
+    href=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1335,12 +1335,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
-/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
+        src=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-dce19.jpg 200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-c1413.jpg 400w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-78f2b.jpg 800w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-ab4c4.jpg 1200w,
+/blog/static/photo-1507124484497-b7f446e65519-d596d717777bf18d02040e147bce3d43-89e9c.jpg 1512w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1355,7 +1355,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/blog/people-will-forget/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/people-will-forget/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[People will forget what you said, people will forget what you did]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi  tristique  senectus et…]]></description><link>https://bruno-alencar.github.io/people-will-forget/</link><guid isPermaLink="false">https://bruno-alencar.github.io/people-will-forget/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi &lt;a href=&quot;http://google.com&quot;&gt;tristique&lt;/a&gt; senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of
 bad Commas, wild Question Marks and devious Semikoli, but the Little
@@ -1365,7 +1365,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1384,12 +1384,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
-/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-dce19.jpg 200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-c1413.jpg 400w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-78f2b.jpg 800w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-ab4c4.jpg 1200w,
+/blog/static/photo-1489900464632-5f5907edda24-7859db7673adc95fb3162c8f6e3db074-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1400,13 +1400,13 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 &lt;p&gt;Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/blog/you-only-live-once/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/you-only-live-once/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
+&lt;p&gt;Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[You only live once]]></title><description><![CDATA[Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo.  Pellentesque  habitant morbi tristique senectus et netus…]]></description><link>https://bruno-alencar.github.io/you-only-live-once/</link><guid isPermaLink="false">https://bruno-alencar.github.io/you-only-live-once/</guid><content:encoded>&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. &lt;strong&gt;Pellentesque&lt;/strong&gt; habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. &lt;em&gt;Integer gravida&lt;/em&gt; nisi ut magna mollis molestie. Nullam &lt;a href=&quot;http://google.com&quot;&gt;pharetra&lt;/a&gt; accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;On deer horse aboard tritely yikes and much&lt;/h3&gt;
 &lt;p&gt;Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
+    href=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1425,12 +1425,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
-/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
+        src=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-dce19.jpg 200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-c1413.jpg 400w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-78f2b.jpg 800w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-ab4c4.jpg 1200w,
+/blog/static/photo-1456518563096-0ff5ee08204e-9ca540f669d219424e6ede0b1fe5774b-e933e.jpg 1502w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1448,7 +1448,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/blog/be-who-you-are/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/be-who-you-are/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be who you are and say what you feel]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing.  Suspendisse  in urna ligula, a volutpat…]]></description><link>https://bruno-alencar.github.io/be-who-you-are/</link><guid isPermaLink="false">https://bruno-alencar.github.io/be-who-you-are/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. &lt;a href=&quot;http://google.com&quot;&gt;Suspendisse&lt;/a&gt; in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;h2&gt;H2 Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h2&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus.&lt;/p&gt;
 &lt;h3&gt;H3 Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
@@ -1457,7 +1457,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
+    href=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1476,12 +1476,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
-/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
+        src=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-dce19.jpg 200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-c1413.jpg 400w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-78f2b.jpg 800w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-ab4c4.jpg 1200w,
+/blog/static/photo-1489824904134-891ab64532f1-2746d2ce98f9ca2322a6e105a2e04348-8d6a8.jpg 1489w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1492,7 +1492,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/blog/two-things-are-infinite/</link><guid isPermaLink="false">https://bruno-alencar.github.io/blog/two-things-are-infinite/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://bruno-alencar.github.io/two-things-are-infinite/</link><guid isPermaLink="false">https://bruno-alencar.github.io/two-things-are-infinite/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
 &lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1504,7 +1504,7 @@ into the belt and made herself on the way.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
+    href=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1523,12 +1523,12 @@ into the belt and made herself on the way.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
+        src=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
+        srcset=&quot;/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
+/blog/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
