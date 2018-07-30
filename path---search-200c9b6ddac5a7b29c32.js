@@ -1,2 +1,0 @@
-webpackJsonp([0xe7884ae5879b],{841:function(a,e){a.exports={data:{site:{siteMetadata:{algolia:{appId:"PIFZC3JEMK",searchOnlyApiKey:"272fd138c094106c3871746853d3bae8",indexName:""}}}},pathContext:{}}}});
-//# sourceMappingURL=path---search-200c9b6ddac5a7b29c32.js.map
