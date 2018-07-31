@@ -17,7 +17,7 @@
     // manifest.json
     manifestName: "Bruno Alencar - Blog",
     manifestShortName: "PersonalBlog", // max 12 characters
-    manifestStartUrl: "/blog",
+    manifestStartUrl: "",
     manifestBackgroundColor: colors.background,
     manifestThemeColor: colors.background,
     manifestDisplay: "standalone",
