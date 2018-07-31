@@ -40,8 +40,8 @@ const styles = theme => ({
     }
   },
   avatar: {
-    width: "36px",
-    height: "36px",
+    width: "45px",
+    height: "45px",
     borderRadius: "65% 75%",
     border: "1px solid #ddd",
     transition: "all .3s",
@@ -51,13 +51,13 @@ const styles = theme => ({
     "& img": {
       maxWidth: "100%"
     },
-    [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+    [`@media (min-width: ${theme.mediaQueryTresholds.M-5}px)`]: {
       width: "44px",
       height: "44px"
     },
-    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
-      width: "60px",
-      height: "60px"
+    [`@media (min-width: ${theme.mediaQueryTresholds.L-5}px)`]: {
+      width: "63px",
+      height: "63px"
     },
     "@media (hover: hover)": {
       "&:hover": {
