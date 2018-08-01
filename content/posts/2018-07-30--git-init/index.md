@@ -1,5 +1,5 @@
 ---
-title: ">Git init"
+title: "> Git init"
 subTitle: How to getting started on github
 category: "getting-started"
 cover: GitHub_Logo.png
