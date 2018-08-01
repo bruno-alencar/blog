@@ -2,36 +2,28 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+Este é um site para postagem do que fui aprendendo durante o dia a dia de um desenvolvedor. Espero que esteja de forma simples para conseguirem entender.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+**Estes são alguns pontos que abordarei neste blog:** 
 
-### Standard features:
+## Stacks
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+* Git/Github
+* Basic commands for git
+* Akka.net
+* Service Fabric
+* Message Queue
 
-### Advanced features:
+## Created
+* Git/Github
+* Basic commands for git
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+## Coming Soon
+* Languages
+* Akka.net
+* Service Fabric
+* Message Queue
 
 ## Instructions
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+For more informations about me and my career, go to [Linkedin page](https://www.linkedin.com/in/bruno-alencar/).
