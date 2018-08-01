@@ -2,7 +2,7 @@
 
   module.exports = {
     siteTitle: "Bruno Alencar - Blog", // <title>
-    shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
+    shortSiteTitle: "Sharing technology content for all", // <title> ending for posts and pages
     siteDescription: "Sharing technology content for all",
     siteUrl: "https://bruno-alencar.github.io",
     pathPrefix: "/blog",
