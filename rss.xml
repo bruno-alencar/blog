@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bruno Alencar - Blog]]></title><description><![CDATA[PersonalBlog is a GatsbyJS starter.]]></description><link>https://bruno-alencar.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 31 Jul 2018 16:49:39 GMT</lastBuildDate><item><title><![CDATA[>Git init]]></title><description><![CDATA[Por que Git? Talvez seja uma pergunta fácil e óbvia para muitas pessoas, mas para outras, vejo que fica muito difícil de entender o motivo…]]></description><link>https://bruno-alencar.github.io/git-init/</link><guid isPermaLink="false">https://bruno-alencar.github.io/git-init/</guid><content:encoded>&lt;h2&gt;Por que Git?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bruno Alencar - Blog]]></title><description><![CDATA[Sharing technology content for all]]></description><link>https://bruno-alencar.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 01 Aug 2018 17:25:31 GMT</lastBuildDate><item><title><![CDATA[>Git init]]></title><description><![CDATA[Por que Git? Talvez seja uma pergunta fácil e óbvia para muitas pessoas, mas para outras, vejo que fica muito difícil de entender o motivo…]]></description><link>https://bruno-alencar.github.io/git-init/</link><guid isPermaLink="false">https://bruno-alencar.github.io/git-init/</guid><content:encoded>&lt;h2&gt;Por que Git?&lt;/h2&gt;
 &lt;p&gt;Talvez seja uma pergunta fácil e óbvia para muitas pessoas, mas para outras, vejo que fica muito difícil de entender o motivo de se usar Git. Está começando aqui, uma série de posts sobre o famoso Git.&lt;/p&gt;
 &lt;p&gt; &lt;em&gt;“Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas”&lt;/em&gt;
 &lt;a href=&quot;https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/&quot;&gt;Tableless&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;git clone &amp;#x3C; LINK&gt;&lt;/h3&gt;
-&lt;p&gt;Comando para baixar o repositório do git&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;git clone git@github.com:bruno-alencar/talk-git-init.git&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;git remote add &amp;#x3C; NOME &gt; &amp;#x3C; LINK &gt;&lt;/h3&gt;
-&lt;p&gt;Quando estamos referenciando uma origem de código de um projecto já existente na máquina&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;git remote add origin git@github.com:bruno-alencar/talk-git-init.git&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Branches&lt;/h2&gt;
-&lt;p&gt;Para exemplificar o que seriam branches, imagine um tronco de uma árvore, a parte principal seria a produção (mais conhecida como ‘master’). Se tivesse um site no ar, seria nesse lugar que guardaria o código do seu site que seria de produção.&lt;/p&gt;
-&lt;p&gt;Mas imagine que você precisa colocar um novo layout no seu site, mas não quer mostrar ainda porque ainda está construindo. Seriam os galhos, ramos desta árvore.&lt;/p&gt;
-&lt;p&gt;Toda nova modificação será criado uma branch, correspondente aquela feature (funcionalidade)&lt;/p&gt;
 &lt;h2&gt;Visibilidade no mercado&lt;/h2&gt;
 &lt;p&gt;Durante meu tempo de faculdade não percebi o quanto um github bem construído é importante. E o pior ainda, não percebi que o melhor lugar para se procurar código, é lá.&lt;/p&gt;
 &lt;p&gt;Visto algum tempo, pessoas que codam a pouco tempo ou até a alguns anos, não entenderam que esse montante de código livre ajuda muito a aprender coisas novas. Pensando da forma:
@@ -31,6 +17,16 @@ Git init vai colocar todas para chamar aquele seu projeto de “projeto Git”, 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;git init&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3&gt;git clone &amp;#x3C; LINK &gt;&lt;/h3&gt;
+&lt;p&gt;Comando para baixar o repositório do git&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;git clone git@github.com:bruno-alencar/talk-git-init.git&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;git remote add &amp;#x3C; NOME &gt; &amp;#x3C; LINK &gt;&lt;/h3&gt;
+&lt;p&gt;Quando estamos referenciando uma origem de código de um projecto já existente na máquina&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;git remote add origin git@github.com:bruno-alencar/talk-git-init.git&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Git add (nome do arquivo) adiciona o arquivo especifico para commitar. Desta forma, você consegue separar arquivos de modificação para realizar diferentes registros. Caso queira adicionar todos, basta colocar um ’*’ no final. Git add *&lt;/p&gt;
 &lt;h3&gt;git add &amp;#x3C; ARQUIVO &gt;&lt;/h3&gt;
 &lt;p&gt;Podemos adicionar nossos arquivos a serem comitados separadamente ou não&lt;/p&gt;
@@ -43,6 +39,10 @@ Final o comando, o comando que pega todos os seus commits e sobem para nuvem, se
 Git remote add origin http..
 Precisamos sempre adicionar o que chamamos de origem. Nosso repositório é uma origem, mas como sabemos que o código na nossa máquina é de lá?
 Com este comando, linkamos o repositório da máquina, com o da nuvem, podemos fazer o push tranquilamente.&lt;/p&gt;
+&lt;h2&gt;Branches&lt;/h2&gt;
+&lt;p&gt;Para exemplificar o que seriam branches, imagine um tronco de uma árvore, a parte principal seria a produção (mais conhecida como ‘master’). Se tivesse um site no ar, seria nesse lugar que guardaria o código do seu site que seria de produção.&lt;/p&gt;
+&lt;p&gt;Mas imagine que você precisa colocar um novo layout no seu site, mas não quer mostrar ainda porque ainda está construindo. Seriam os galhos, ramos desta árvore.&lt;/p&gt;
+&lt;p&gt;Toda nova modificação será criado uma branch, correspondente aquela feature (funcionalidade)&lt;/p&gt;
 &lt;h2&gt;Comandos que começam a dar problemas&lt;/h2&gt;
 &lt;p&gt;Como nada é perfeito, seu projeto também pode não ser kkkk. Quando todos do projeto trabalham em suas branches, com os comando acima tudo funcionará perfeitamente. Mas tem o momento em que tudo precisa ser “juntado”
 Git Merge
