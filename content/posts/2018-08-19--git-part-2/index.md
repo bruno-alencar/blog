@@ -73,6 +73,13 @@ How to come back your commit but keeping hisorical context
 
 ``git revert <commitId>``
 
+---
+title: "> Git part 2"
+subTitle: Modifying github
+category: "getting-started"
+cover: GitHub_Logo.png
+---
+
 Revert using quantity of commits
 
 ``git revert HEAD^3``
